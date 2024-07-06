@@ -1,1 +1,1 @@
-Detects Face and Eye in live camera feed using Haar Caccades in OpenCV 
+Detects Face and Eye in live camera feed using Haar Cascades in OpenCV 
